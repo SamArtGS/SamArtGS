@@ -1,16 +1,16 @@
-### Hi there 👋
+### 🐶 Hola!
 
-<!--
-**SamArtGS/SamArtGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Samuel, estudiante de la facultad de ingeniería. Si encuentras algo por aquí que te pueda servir, adelante.
 
-Here are some ideas to get you started:
+[![SamArtGS's github stats](https://github-readme-stats.vercel.app/api?username=samartgs&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Cada día busco algo nuevo que aprender.
+- 👀 Busco colaborar con comunidades de desarrolladores.
+- 🍕 Vamos por Pizza.
+- 🤡  Si eres uno de mis alumnos, no te fusiles un proyecto anterior, plox xd. 
+- 🚗 Me gusta viajar.
+- 👀 Hay repos de cursos que he dado en Proteco. Si hay algún error, por fa hazme un nuevo ISSUE (el buzón de quejas y sugerencias)
+- 🥖 Un bolillo.
+
+
